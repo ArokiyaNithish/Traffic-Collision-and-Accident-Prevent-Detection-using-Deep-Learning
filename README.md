@@ -1035,6 +1035,19 @@ We express our deepest gratitude to:
 ## 📄 License
 
 > This is an open-source **community service project** released under the MIT License to encourage learning, research, and social impact in road safety systems.
+ you are free to use, modify, and distribute this code with attribution.
+
+```
+MIT License
+
+Copyright (c) 2025 Arokiya Nithish
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software...
+```
+
+See [LICENSE](LICENSE) for full details.
+
 
 ---
 
