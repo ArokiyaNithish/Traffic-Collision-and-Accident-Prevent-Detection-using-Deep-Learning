@@ -348,8 +348,9 @@ END
 └──────────────┘
 ```
 
-![Block Diagram](https://github.com/user-attachments/assets/ae39f7d5-2261-404f-9048-e70201f7cc49)
+![Block Diagram](https://github.com/user-attachments/assets/ce708765-625a-46ba-a78c-af2343efdcb3)
 
+---
 
 ### Flowchart Step Explanations
 
@@ -621,8 +622,9 @@ To validate the real-world need for this project, our team conducted a comprehen
 - 📍 **Redhills Highway Area** — Public survey with residents about real-life accident experiences
 - 📍 **Redhills Junction** — Geotagged field observations
 
+![WhatsApp Image 2026-02-22 at 5 39 58 PM](https://github.com/user-attachments/assets/3494deda-1db8-4ff9-a735-e36c82a03f03)
 
-![WhatsApp Image 2026-02-22 at 5 39 58 PM](https://github.com/user-attachments/assets/cf395c6b-6bee-4f31-94dc-a3a9ce852ea5)
+
 
 
 ---
@@ -635,8 +637,9 @@ To validate the real-world need for this project, our team conducted a comprehen
 
 📱 **Survey QR Code:** 
 
+![Survey QR code](https://github.com/user-attachments/assets/33d1258f-0de1-4d1a-8c16-3576744cc3ce)
 
-![Survey QR code](https://github.com/user-attachments/assets/3f111072-bbe7-45e1-8f88-926bb4490b5f)
+
 
 
 ---
@@ -877,14 +880,19 @@ This project has received **official permission and bona fide certification** fr
 The certificate confirms the authenticity of the community service survey conducted by the project team at Redhills, Chennai.
  
 
-![Bonfide ](https://github.com/user-attachments/assets/cdc39322-f38f-4c9c-8b65-aa37d7a18090)
+![Bonfide ](https://github.com/user-attachments/assets/e3212ce6-254e-43e7-a43a-cdded8bcc90d)
+
 
 ---
 
 ## Working Demo Prototype Video
 
 
-https://github.com/user-attachments/assets/ad80b8ec-d7af-4390-a48b-230e59c57a65
+
+
+https://github.com/user-attachments/assets/4ac575ae-9681-4eb6-92ea-2df21690dc21
+
+
 
 
 ---
@@ -1026,7 +1034,7 @@ We express our deepest gratitude to:
 
 ## 📄 License
 
-This project is a **Community Service Project** submitted in partial fulfillment of the requirement for the award of the degree of **Bachelor of Technology in Artificial Intelligence and Data Science** at **Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science & Technology**, Chennai — 600 062, Tamil Nadu, India.
+> This is an open-source **community service project** released under the MIT License to encourage learning, research, and social impact in road safety systems.
 
 ---
 
