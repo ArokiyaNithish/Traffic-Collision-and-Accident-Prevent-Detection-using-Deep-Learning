@@ -973,7 +973,7 @@ Please use [GitHub Issues](https://github.com/ArokiyaNithish/traffic-collision-d
 | Name | Roll Number | VTU ID | Role |
 |------|-------------|--------|------|
 | **Arokiya Nithish J** | 23UEAD0008 | VTU24347 | Lead Developer & ML Engineer |
-| **Ishwarya M** | 23UEAD0028 | VTU24428 | Research & Survey Analysis |
+| **Ishwarya M** | 23UEAD0028 | VTU24428 | Research & Survey Analysis  |
 
 
 **Supervised by:** Dr. A. Sivanesh Kumar, Ph.D. *(Associate Professor)*
@@ -981,9 +981,9 @@ Please use [GitHub Issues](https://github.com/ArokiyaNithish/traffic-collision-d
 **Batch No:** 01 | **Academic Year:** 2024–2025 (Winter Semester)
 **Project Code:** 10214AD501
 
-### Lead Author
+### Lead Memeber
 
-**Arokiya Nithish J**
+**Arokiya Nithish J (Head and Ml Engineer)**
 - 🎓 Department of AI & Data Science — Vel Tech University
 - 💼 Domain: Deep Learning | Computer Vision | IoT | Community Service
 - 🌐 GitHub: [@ArokiyaNithish](https://github.com/ArokiyaNithish)
@@ -991,6 +991,12 @@ Please use [GitHub Issues](https://github.com/ArokiyaNithish/traffic-collision-d
 - 📧 Email: arokiyanithishj@gmail.com
 - 🌐 Portfolio: [arokiyanithish.github.io/portfolio/](https://arokiyanithish.github.io/portfolio/)
 
+**Ishwarya M(Research and Ml Engineer)**
+- 🎓 Department of AI & Data Science — Vel Tech University
+- 💼 Domain: Deep Learning | Computer Vision | IoT | Community Service
+- 🌐 GitHub: [@Ishwarya M](https://github.com/ishwarya-hub)
+- 💼 LinkedIn: [@Ishwarya M](https://www.linkedin.com/in/ishwaryam13)
+- 📧 Email: ishwarya.m13@gmail.com
 ---
 
 ## 📄 License
@@ -998,6 +1004,31 @@ Please use [GitHub Issues](https://github.com/ArokiyaNithish/traffic-collision-d
 > This is an open-source **community service project** released under the Apache License to encourage learning, research, and social impact in road safety systems.
  you are free to use, modify, and distribute this code with attribution.
 
+```
+📄 License
+This project is licensed under the Apache License 2.0 — you are free to use, modify, and distribute this code with proper attribution and compliance with the license terms.
+
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
+
+Copyright (c) 2026 Arokiya Nithish J
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+```
+http://www.apache.org/licenses/LICENSE-2.0  
+```
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+```
 
 
 See [LICENSE](LICENSE) for full details.
@@ -1044,6 +1075,40 @@ We express our deepest gratitude to:
 
 ---
 
+```
+NOTICE
+
+Project Name: Traffic Collision and Accident Prevention Detection using Deep Learning & IOT
+Copyright (c) 2026 Arokiya Nithish J& Ishwarya M
+
+This product includes software developed by Arokiya Nithish J.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at:
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+---
+
+Modifications
+
+If you have modified this project, you should add a statement here such as:
+
+"This project has been modified by <Your Name/Organization> on <Date>.
+Changes include: <brief description of changes>"
+
+---
+
+END OF NOTICE
+```
+
 
 
 <div align="center">
@@ -1052,6 +1117,6 @@ We express our deepest gratitude to:
 
 *Made with ❤️ for Community Service | Redhills, Chennai, India 🇮🇳*
 
-*© 2025 — Arokiya Nithish J*
+*© 2025 — Arokiya Nithish J & Ishwarya M*
 
 </div>
